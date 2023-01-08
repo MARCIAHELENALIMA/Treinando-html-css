@@ -1339,16 +1339,8 @@ form button:hover{
 }
 
 /*
-
 For devices with smaller width like mobile phone
-
-
 */
-
-
-
-
-
 @media only screen and (max-width: 550px){
     .header-content{
         height: 100vh;
